@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\bin\Debug\Assignmen 20 BasiCsharpAssignment.exe.config
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\bin\Debug\Assignmen 20 BasiCsharpAssignment.exe
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\bin\Debug\Assignmen 20 BasiCsharpAssignment.pdb
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\obj\Debug\Assignmen 20 BasiCsharpAssignment.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\obj\Debug\Assignmen 20 BasiCsharpAssignment.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\obj\Debug\Assignmen 20 BasiCsharpAssignment.exe
+C:\Mphasis dot net\Day 15\Assignmen 20 BasiCsharpAssignment\Assignmen 20 BasiCsharpAssignment\obj\Debug\Assignmen 20 BasiCsharpAssignment.pdb
